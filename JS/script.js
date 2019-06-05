@@ -8,7 +8,7 @@ success: function(data) {
 }
 });
 
-// Loop through each user
+   // Loop through each user
 function gallery(data){
     data.forEach(data => {
         const userHTML =
